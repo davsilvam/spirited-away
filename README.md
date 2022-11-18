@@ -3,9 +3,9 @@
 
 Esta é uma pequena Landing Page desenvolvida no desafio 05 da Codelândia, proposto pelo [Iuri Silva](https://github.com/iuricode).
 
-<!-- <p align="center">
-   <a href="https://winterman-app.vercel.app">Veja o projeto completo aqui.</a>
-</p> -->
+<p align="center">
+   <a href="https://spirited-away-liard.vercel.app">Veja o projeto completo aqui.</a>
+</p>
 
 ## :art: **Visual do Projeto**
 ### *Desktop e Telas Maiores*
